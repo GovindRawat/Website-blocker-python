@@ -10,7 +10,7 @@ sites_to_block = [
     "youtube.com",
     "www.gmail.com",
     "gmail.com",
-]
+
 
 # different hosts for different os
 Linux_host = "/etc/hosts"
